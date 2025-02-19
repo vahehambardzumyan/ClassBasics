@@ -13,3 +13,4 @@ VGG16 = AIModel("VG16G", 91)
 VGG16.display_info()
 VGG18 = AIModel("VGG18", 93, "Pytorch")
 VGG18.display_info()
+#
